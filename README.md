@@ -1,3 +1,6 @@
+[![Tests](https://github.com/GerardoMacedo/ml-from-scratch/actions/workflows/tests.yml/badge.svg)](https://github.com/GerardoMacedo/ml-from-scratch/actions/workflows/tests.yml)
+
+
 # Logistic Regression — From Scratch (NumPy) vs scikit-learn
 
 Hands-on ML project implementing logistic regression **from first principles** (NumPy only), with comparisons to scikit-learn on the Iris dataset. Includes tests and a CLI.
